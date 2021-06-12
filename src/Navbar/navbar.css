@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    background-color:aquamarine;
+    padding: 15px;
+}
+
+.form-div{
+    position: absolute;
+    top: 25px;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,12 @@
+.recipe-details-container {
+    display: flex;
+}
+
+
+.left>img {
+    max-width: 40vw;
+}
+.recipes-container {
+    display: flex;
+    flex-wrap: wrap;
+}
